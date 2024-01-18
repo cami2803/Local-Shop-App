@@ -1,0 +1,1 @@
+This is a project designed to depict a local shop for horse rider enthusiasts, connected to a database. The project includes creating an account, loggin into an account, displaying the products, adding them to an order and other functionalities.
