@@ -20,7 +20,7 @@ public class DatabaseConnection {
         dbName = "tabels";
         ssl = "?autoReconnect=true&useSSL=false";
         username = "root";
-        password = "uncacat";
+        password = "";
     }
 
     public Connection getConnection() throws Exception {
